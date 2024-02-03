@@ -31,7 +31,7 @@
     "@types/webpack-env": "^1.16.3",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "@typescript-eslint/parser": "^4.4.1",
-    "asar": "^3.1.0",
+    "asar": "^3.2.0",
     "aws-sdk": "^2.814.0",
     "check-for-leaks": "^1.2.1",
     "colors": "1.4.0",
